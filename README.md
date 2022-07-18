@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Getauscht)
+![Metrics](https://metrics.lecoq.io/insights/Getauscht)
