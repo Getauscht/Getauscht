@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, CPP and Arduino**
 
-- 📫 How to reach me **paulovictorsjm@hotmail.com**
+- 📫 How to reach me **contato@getauscht.dev**
 
 - ⚡ Fun fact **I'm in love with Violet Evergarden**
 
